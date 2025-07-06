@@ -126,3 +126,11 @@ Modernist User App, okunabilir ve sürdürülebilir kod mimarisi ile geliştiril
 - **İnternet Bağlantısı:** API verilerini alabilmek için gereklidir
 
 ---
+
+## 🚀 Kurulum
+
+1. 📦 **Projeyi İndirin**
+```bash
+git clone https://github.com/berkayemre/ModernistUserApp.git
+cd ModernistUserApp
+open ModernistUserApp.xcodeproj
